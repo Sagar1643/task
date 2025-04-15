@@ -1,5 +1,4 @@
 amity university 
-btech cse 
-btech aiml
-btech ece
-
+btech computer science engineering
+btech AI and machine learning
+btech ECE
