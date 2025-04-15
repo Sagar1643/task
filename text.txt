@@ -2,3 +2,6 @@ amity university
 btech computer science engineering
 btech AI and machine learning
 btech ECE
+
+bsc data analytics
+bsc data management
